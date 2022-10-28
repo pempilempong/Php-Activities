@@ -1,0 +1,13 @@
+img{     
+    width: 150px;
+  } 
+div{
+    padding-bottom: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+
+  }
+body{
+  background-color: lightpink;
+}
